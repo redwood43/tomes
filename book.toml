@@ -3,3 +3,11 @@ authors = []
 language = "en"
 multilingual = false
 src = "src"
+
+title = "magic missile"
+
+[build]
+build-dir = "public"
+
+[output.html]
+cname="https://redwood43.github.io/tomes"
